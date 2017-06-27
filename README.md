@@ -1,3 +1,3 @@
 # python-scripting
 
-`mkvirtualenv python-scripting --python=python3.6`
+`mkvirtualenv python-scripting --python=python3.5`
